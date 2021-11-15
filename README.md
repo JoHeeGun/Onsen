@@ -8,6 +8,11 @@
 asdasd   
 asdd
 
+* ## ⏰ Team & Part
+aasd
+asdasd
+asdasd
+
 ## 수평선 (Horizon)
   
 ***

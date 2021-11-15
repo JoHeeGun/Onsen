@@ -6,8 +6,8 @@
 해당 깃허브는 웨어러블 체온계 'Onsen'의 웹페이지입니다.
 
 * ## 🛠 기술스택 & 개발환경
-Frontend : JSP / Bootstrap   
-Backend : Spring Framework   
+Frontend : JSP / HTML5 / CSS3 / Bootstrap   
+Backend : Java / Spring Framework   
 Database : Orale   
 Server : Apache Tomcat 9.0   
 Tools : Eclipse / Sqldeveloper   

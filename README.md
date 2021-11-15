@@ -8,7 +8,7 @@
 asdasd   
 asdd
 
-* ## 🧑🏻 Team & Part
+* ## 🤚 Team & Part
 aasd   
 asdasd   
 asdasd   

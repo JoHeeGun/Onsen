@@ -11,7 +11,7 @@ asdasd
 asdd
 
 * ## 🤚 Team & Part
-aasd   
+Language : Java / JSP  
 asdasd   
 asdasd   
 

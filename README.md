@@ -7,7 +7,7 @@
 
 * ## 🛠 기술스택 & 개발환경
 Frontend : JSP / Bootstrap   
-Backend : Spring 
+Backend : Spring Framework   
 Database : Orale   
 Server : Apache Tomcat 9.0   
 Tools : Eclipse / Sqldeveloper   

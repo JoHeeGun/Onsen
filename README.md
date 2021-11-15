@@ -9,8 +9,13 @@ asdasd
 asdd
 
 * ## ⏰ Team & Part
-aasd
-asdasd
+aasd   
+asdasd   
+asdasd   
+
+* ## 🕹 주요기능
+asdasd   
+asdasdads   
 asdasd
 
 ## 수평선 (Horizon)

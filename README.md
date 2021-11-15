@@ -14,9 +14,13 @@ Tools : Eclipse / Sqldeveloper
 
 * ## 🤚 Team & Part
  
-웹 개발 1인   
+웹 개발 1인(본인)   
+'Onsen'웹의 전체적인 디자인 및 개발   
+
 안드로이드 개발 1인   
 IoT안드로이드 개발 1인   
+
+
 
 * ## 🕹 주요기능
 asdasd   

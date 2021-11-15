@@ -6,12 +6,12 @@
 해당 깃허브는 웨어러블 체온계 'Onsen'의 웹페이지입니다.
 
 * ## 🛠 기술스택
-ㅇasdasd   
+Language : Java / JSP  
 asdasd   
 asdd
 
 * ## 🤚 Team & Part
-Language : Java / JSP  
+ 
 asdasd   
 asdasd   
 

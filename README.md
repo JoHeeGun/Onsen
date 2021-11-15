@@ -1,6 +1,8 @@
 # Onsen
   * ## 🗣 프로젝트 소개
   ![예시 이미지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4bc509f4-a581-4a69-a408-1cb157dada2c/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211115T081013Z&X-Amz-Expires=86400&X-Amz-Signature=7c664aaeca46d44cf5bbf81029f8bed28adaa407d590314d1f3d2ec8d0a11070&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%25A9%2594%25EC%259D%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.jpg%22)   
+2020년 졸업작품 프로젝트로 웨어러블 패치형 체온계 'Onsen'을 기획하였습니다.   
+'Onsen'이란 Covid-19의 확산, 위험성이 커지면서 사람들은 체온에 민감하게 생각하고, 자신의 체온을 쉽고 빠르게 확인 할 수 있는 체온계가 필요하다고 생각되어 기획하게된 웨어러블 패치형 체온계입니다.   
 웨어러블 체온계 Onsen의 홈페이지입니다.
 
 * ## 🛠 기술스택

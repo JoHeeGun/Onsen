@@ -13,7 +13,6 @@ import com.jang.doc.model.User;
 
 @Service("userService")
 public class UserServiceImpl implements UserService {
-	//public UserDao userDao;
 	
 	@Autowired
 	private SqlSession sqlSession;
@@ -31,7 +30,6 @@ public class UserServiceImpl implements UserService {
 	
 	@Override
 	public int updateUser(User user) {
-		//return userDao.updateUser(user);
 		return sqlSession.update("userMapper.updateUser",user);
 	}
 	
@@ -41,7 +39,6 @@ public class UserServiceImpl implements UserService {
 		user.setId(id);
 		user.setEmail(email);
 		return sqlSession.selectOne("userMapper.findPass",user);
-		//return userDao.findPass(id, email);
 	}
 	
 	@Override

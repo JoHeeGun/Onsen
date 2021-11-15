@@ -18,9 +18,7 @@
 		update member_tbl set pass=#{pass}, zip=replace(#{zip}, ' ', ''), addr1=#{addr1},addr2=#{addr2}, phone=#{phone}, email=#{email} 
 		where id=#{id}
 	</update>
-	
-	
-	
+		
 	<select id="findId" resultType="com.jang.doc.model.User" parameterType="com.jang.doc.model.User">
 		select * 
 		from member_tbl 

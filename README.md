@@ -6,10 +6,7 @@
 해당 깃허브는 웨어러블 체온계 'Onsen'의 웹페이지입니다.
 
 * ## 🛠 기술스택
-Language :
-```
-Java
-``` 
+Language : Typescript React NextJs styled-components stompjs   
 asdasd   
 asdd
 
